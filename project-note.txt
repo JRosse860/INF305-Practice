@@ -2,3 +2,4 @@ This is my first Git and GitHub practice file.
 I am learning how to track changes, commit work, and collaborate using version control. 
 For Mac users, text files are more difficult
 This sentence was added directly on github
+This sentence was added locally after pulling from GitHub
